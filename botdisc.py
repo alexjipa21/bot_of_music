@@ -1,5 +1,5 @@
     #!./.venv/bin/python
-     
+    #This code is mostly taken from the internet, only for fun and experimenting!
     import discord      # base discord module
     import code         # code.interact
     import os           # environment variables
